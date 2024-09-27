@@ -5,6 +5,6 @@
 
 int main(){
 
-    printf("hello");
+    printf("Tea\nm\\nRo\nket");
     return 0 ;
 }
